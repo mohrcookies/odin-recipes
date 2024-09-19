@@ -1,5 +1,26 @@
+* {
+    outline: 2px dotted lightgray;
+  }
+
 body {
-    background: beige;
+    background: FFF0D1;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    margin-left: 150px;
+}
+
+.recipe {
+    padding: 8px;
+    font-size: 20px;
+}

@@ -1,22 +1,27 @@
-* {
-    outline: 2px dotted lightgray;
-  }
+/* * {
+    outline: 2px dotted gray;
+  } */
 
 body {
-    background: FFF0D1;
+    background: #C1AF98;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+a {
+    color: #A75118;
+}
 h1 {
     text-align: center;
 }
 
 img {
+    border: 10px solid #475841;
     display: block;
     margin: 0 auto;
 }
 
 ul {
+    color: #A75118;
     margin-left: 150px;
 }
 
